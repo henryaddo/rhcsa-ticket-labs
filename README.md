@@ -1,4 +1,4 @@
-# RHCSA Ticket Labs — RHEL 9
+# RHCSA Ticket Labs
 
 This project simulates real-world Linux administration tickets aligned with RHCSA EX200 objectives.
 
