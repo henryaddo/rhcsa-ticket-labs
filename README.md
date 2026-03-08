@@ -235,6 +235,4 @@ Instead of isolated command practice, each lab focuses on **real operational sce
 
 Created by **Henry Addo**
 
-Aspiring Linux System Administrator preparing for the **RHCSA certification**.
-
-This repository is part of my learning journey to develop practical Linux administration and troubleshooting skills.
+Linux enthusiast focused on building practical system administration and troubleshooting skills.
