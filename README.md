@@ -1,11 +1,10 @@
 # RHCSA Ticket Labs
 
-A collection of hands-on Linux troubleshooting labs designed like real-world support tickets.
+A collection of hands-on Linux troubleshooting labs designed to simulate real-world support tickets.
 
-This repository documents my preparation for the **Red Hat Certified System Administrator (RHCSA)** exam while practicing practical system administration tasks used by Linux support engineers and system administrators.
+This repository demonstrates practical system administration tasks commonly handled by Linux support engineers and system administrators.
 
-Each lab simulates a real operations ticket and includes:
-
+Each lab simulates an operational issue and includes
 - Problem scenario
 - Investigation steps
 - Solution implementation
